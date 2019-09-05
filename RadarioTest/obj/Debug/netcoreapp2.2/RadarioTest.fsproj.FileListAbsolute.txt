@@ -1,0 +1,10 @@
+/home/integralgopnik/RiderProjects/RadarioTest/RadarioTest/obj/Debug/netcoreapp2.2/RadarioTest.fsprojAssemblyReference.cache
+/home/integralgopnik/RiderProjects/RadarioTest/RadarioTest/obj/Debug/netcoreapp2.2/RadarioTest.AssemblyInfoInputs.cache
+/home/integralgopnik/RiderProjects/RadarioTest/RadarioTest/obj/Debug/netcoreapp2.2/RadarioTest.AssemblyInfo.fs
+/home/integralgopnik/RiderProjects/RadarioTest/RadarioTest/bin/Debug/netcoreapp2.2/RadarioTest.deps.json
+/home/integralgopnik/RiderProjects/RadarioTest/RadarioTest/bin/Debug/netcoreapp2.2/RadarioTest.runtimeconfig.json
+/home/integralgopnik/RiderProjects/RadarioTest/RadarioTest/bin/Debug/netcoreapp2.2/RadarioTest.runtimeconfig.dev.json
+/home/integralgopnik/RiderProjects/RadarioTest/RadarioTest/bin/Debug/netcoreapp2.2/RadarioTest.dll
+/home/integralgopnik/RiderProjects/RadarioTest/RadarioTest/bin/Debug/netcoreapp2.2/RadarioTest.pdb
+/home/integralgopnik/RiderProjects/RadarioTest/RadarioTest/obj/Debug/netcoreapp2.2/RadarioTest.dll
+/home/integralgopnik/RiderProjects/RadarioTest/RadarioTest/obj/Debug/netcoreapp2.2/RadarioTest.pdb
